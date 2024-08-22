@@ -1,0 +1,31 @@
+ 3 Key to understand  the Function
+    ... Return Value..........
+    1. int always used to return the value of the function
+    2. void doesn't return a value of the function.
+
+    ........Arguments.........
+    This is the variable passed to the function
+    1.With Argument means the  main function passed the value to user define function.
+    2. without argument means the function doesn't pass the value.
+
+    .......Where to print ........
+    If the function doesn't return a value then print on the user defined function
+    If the  Userdefined function return a value then print on the main function 
+
+
+
+
+ IN local language (nepali)
+   ......value return ........
+   1. value return garna "int" ko use garna. 
+   2. value return garnu xoina bhana "void" use garna.
+
+    .......Arguments........
+    function ma pass huna variable lai arguments bhaninxa.
+    1. "With Argument" bhanako main function ley Userdefined function lai value pass garxa.
+    2. "without Argument" bhanako main function ley value pass gardaina.
+
+   ........where to print........
+   1.function ley value return gardaina bhana  "user defined function" ma print garna
+   2. function value return garxa bhana  "main function" ma print garna
+ 
